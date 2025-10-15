@@ -1,1 +1,13 @@
 
+.Stylish {
+  color: darkblue;
+  font-size: 24px;
+  font-family: "Georgia", serif;
+  text-shadow: 0 0 3px lightblue;
+}
+
+.Highlight {
+  background-color: yellow;
+  padding: 2px 5px;
+  border-radius: 3px;
+}
